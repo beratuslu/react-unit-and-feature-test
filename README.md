@@ -1,4 +1,4 @@
-# React.js Game Rating App Example
+# React.js Unit and Feature test Example
 
 This repository demonstrates unit and feature test with reacjt js using selenium.
 
